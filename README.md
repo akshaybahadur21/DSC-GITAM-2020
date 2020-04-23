@@ -5,6 +5,6 @@
  
  My session details for DSC GITAM, April 25, 2020 for humans
  
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1H3KwWbqBd-i9yTteZsJdkzVoY3U-eKI23oq91JO3zoI/edit?usp=sharing)
 
 <img src="https://github.com/akshaybahadur21/DSC-GITAM-2020/blob/master/gitam.jpg">
