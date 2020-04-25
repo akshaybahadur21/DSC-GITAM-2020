@@ -7,4 +7,6 @@
  
 ## [Slides](https://docs.google.com/presentation/d/1H3KwWbqBd-i9yTteZsJdkzVoY3U-eKI23oq91JO3zoI/edit?usp=sharing)
 
+### [Registration Link](https://gitam.zoom.us/meeting/register/tJAuc-qhqjkiHtVpZEpHo11K7F2mA8hxhUUk)
+
 <img src="https://github.com/akshaybahadur21/DSC-GITAM-2020/blob/master/gitam.jpg">
